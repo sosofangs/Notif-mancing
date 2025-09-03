@@ -1,1 +1,1 @@
-local jsonURL = "https://raw.githubusercontent.com/sosofangs/Notifmancing/main/rareFish.json"
+local jsonURL = "https://raw.githubusercontent.com/sosofangs/Notif-mancing/main/rareFish.json"
